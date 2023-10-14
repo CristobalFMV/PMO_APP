@@ -1,0 +1,60 @@
+.HeaderHome{
+    background-color: rgb(1, 1, 79);
+}
+.LogoDuocHome{
+    border-radius: 8px;
+    background-color: white;
+    margin-left: 20%;
+    margin-right: 20%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Add a shadow around the border */
+}
+.LogoTopHome{
+    width: 100%;
+    height: 30px;
+  }
+
+.Home-button {
+    --background: rgb(1, 1, 79); 
+    --color: #fff; 
+    display: flex;
+    justify-content: center;
+    border-radius: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.center_BG{
+    text-align: center;
+    justify-content: center;
+    font-size:larger;
+}
+
+.TEST_button{
+    --background: rgb(143, 147, 4);
+    --color: #fff; 
+    display: flex;
+    justify-content: center;
+    border-radius: 12px;
+}
+
+.btn_Hamgurmenu{
+    font-size: medium;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.btn_HamgurmenuBottom {
+
+    position: fixed; /* Fixed position to stay at the bottom */
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    align-items: center; /* Vertically align text */
+    border-radius: 16px;
+}
+
+
